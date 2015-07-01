@@ -37,3 +37,6 @@ angular.module('example', ["ngDatepicker"]);
 <link rel="stylesheet" href="bower_components/jquery-ui-bootstrap/jquery.ui.theme.font-awesome.css" />
 <!-- endbuild -->
 ```
+
+## Based on jQuery UI Datepicker
+- https://jqueryui.com/datepicker/
