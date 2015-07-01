@@ -23,3 +23,5 @@ $ bower install ng.datepicker-ui --save
 ```
 angular.module('example', ["ngDatepicker"]);
 ```
+
+## CSS compatibility with bootstrap
