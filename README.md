@@ -28,12 +28,12 @@ angular.module('example', ["ngDatepicker"]);
 ```
 <!-- build:css(.) styles/style.css -->
 <!-- bower:css -->
-  <link rel="stylesheet" href="bower_components/jquery-ui-bootstrap/jquery.ui.theme.css" />
+<link rel="stylesheet" href="bower_components/jquery-ui-bootstrap/jquery.ui.theme.css" />
 <!-- endbower -->
 <!-- endbuild -->
 
 <!-- build:css(.tmp) styles/main.css -->
-  <link rel="stylesheet" href="bower_components/jquery-ui/themes/base/jquery-ui.css" />
-  <link rel="stylesheet" href="bower_components/jquery-ui-bootstrap/jquery.ui.theme.font-awesome.css" />
+<link rel="stylesheet" href="bower_components/jquery-ui/themes/base/jquery-ui.css" />
+<link rel="stylesheet" href="bower_components/jquery-ui-bootstrap/jquery.ui.theme.font-awesome.css" />
 <!-- endbuild -->
 ```
