@@ -9,11 +9,6 @@ ng-datepicker
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg">
 </p>
 
-<h3>Implementation</h3>
-```
-<ng-datepicker ng-name="effectiveBeginning" ng-required="true" ng-model="effectiveBeginning" dateFormat="dd/mm/yy" minDate="-15D" maxDate="+1M +10D" buttonImage="images/ico-calendario.png" buttonText="Show calendar" ng-class="" native-class="form-control input-text"></ng-datepicker>
-```
-
 ## Bower install de dependency
 ```
 $ bower install ng.datepicker-ui --save
@@ -22,6 +17,11 @@ $ bower install ng.datepicker-ui --save
 ## Module AngularJS include
 ```
 angular.module('example', ["ngDatepicker"]);
+```
+
+## Implementation
+```
+<ng-datepicker ng-name="effectiveBeginning" ng-required="true" ng-model="effectiveBeginning" dateFormat="dd/mm/yy" minDate="-15D" maxDate="+1M +10D" buttonImage="images/ico-calendario.png" buttonText="Show calendar" ng-class="" native-class="form-control input-text"></ng-datepicker>
 ```
 
 ## CSS dependencies and compatibility with bootstrap
